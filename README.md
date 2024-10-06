@@ -48,7 +48,6 @@
 3. Clique no botão "Mostrar Imagem" para exibi-la.
 4. Se quiser salvar a imagem, clique no botão "Salvar Imagem" e escolha o local e formato do arquivo.
 
-![Exemplo de uso](https://via.placeholder.com/500x300) <!-- Substitua com o link de um GIF mostrando o fluxo completo -->
 
 ## 📂 Estrutura do Projeto
 
