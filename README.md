@@ -2,7 +2,7 @@
 
 🌟 **Save-img** é um aplicativo desenvolvido em Python que permite visualizar e salvar imagens a partir de links diretos. Com uma interface simples e intuitiva, o Save-img facilita o processo de baixar e gerenciar imagens da web!
 
-![save-img logo](https://via.placeholder.com/150) <!-- Substitua com o link do seu logo ou outro GIF -->
+![save-img logo]([https://via.placeholder.com/150](https://i.pinimg.com/originals/0d/ea/6d/0dea6d019714ad365b3858492823f417.gif)) <!-- Substitua com o link do seu logo ou outro GIF -->
 
 ## 🚀 Funcionalidades
 
