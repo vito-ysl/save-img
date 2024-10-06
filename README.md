@@ -11,13 +11,6 @@
 - Interface gráfica simples, construída com Tkinter.
 - Redimensionamento automático da imagem para otimizar a exibição.
 
-## 🎥 Demonstração
-<!-- Adicione os GIFs das funcionalidades aqui -->
-### Exibindo uma imagem
-![Mostrando uma imagem](https://via.placeholder.com/500x300) <!-- Substitua com o link de um GIF mostrando a imagem sendo carregada -->
-
-### Salvando uma imagem
-![Salvando uma imagem](https://via.placeholder.com/500x300) <!-- Substitua com o link de um GIF mostrando a funcionalidade de salvar -->
 
 ## 🛠️ Tecnologias Utilizadas
 
